@@ -12,4 +12,5 @@ function calcular() {
     resultado.textContent = "R$ " + valorDuasCasas
 
     console.log(resultado)
-}
+    }
+    
