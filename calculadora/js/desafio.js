@@ -9,7 +9,7 @@ function calcular() {
     var valorProjeto = valorHora * horasProjeto
     var valorDuasCasas = valorProjeto.toFixed(2)
 
-    resultado.textContent = "R$ " + valorDuasCasas
+    resultado.textContent = "R$" + valorDuasCasas
 
     console.log(resultado)
     }
